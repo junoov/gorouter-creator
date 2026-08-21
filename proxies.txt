@@ -1,0 +1,12 @@
+# Webshare.io Backbone proxies (port 80, host p.webshare.io)
+# Format: host:port:user:pass
+p.webshare.io:80:jokowigibran-1:wi2244gibran
+p.webshare.io:80:jokowigibran-2:wi2244gibran
+p.webshare.io:80:jokowigibran-3:wi2244gibran
+p.webshare.io:80:jokowigibran-4:wi2244gibran
+p.webshare.io:80:jokowigibran-5:wi2244gibran
+p.webshare.io:80:jokowigibran-6:wi2244gibran
+p.webshare.io:80:jokowigibran-7:wi2244gibran
+p.webshare.io:80:jokowigibran-8:wi2244gibran
+p.webshare.io:80:jokowigibran-9:wi2244gibran
+p.webshare.io:80:jokowigibran-10:wi2244gibran
